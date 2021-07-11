@@ -1,5 +1,5 @@
 {
-    "name": "iwouldrathercode/php-custom-one-login",
+    "name": "krthkbharadwaj/php-custom-one-login",
     "description": "OneLogin PHP SAML Toolkit",
     "license": "MIT",
     "homepage": "https://developers.onelogin.com/saml/php",
@@ -11,8 +11,8 @@
     },
     "support": {
         "email": "psgganesh@gmail.com",
-        "issues": "https://github.com/iwouldrathercode/php-custom-one-login/issues",
-        "source": "https://github.com/iwouldrathercode/php-custom-one-login/"
+        "issues": "https://github.com/krthkbharadwaj/php-custom-one-login/issues",
+        "source": "https://github.com/krthkbharadwaj/php-custom-one-login/"
     },
     "require": {
         "php": ">=5.4",
